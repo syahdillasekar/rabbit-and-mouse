@@ -37,7 +37,6 @@ Gunakan `git diff` untuk melihat perbandingan antar branch.
 $ git diff branch1 branch2
 ```
 
-Jika belum paham tentang Git, kamu bisa pelajari di: [Tutorial Git untuk Pemula](https://www.petanikode.com/tutorial/git/)
 
 ## Cara Menjalankan Game
 
